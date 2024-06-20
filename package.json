@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "cypress": "^13.12.0",
+    "typescript": "^5.4.5"
+  },
+  "scripts": {
+    "runner": "cypress open --e2e --browser chrome"
+  },
+  "dependencies": {
+    "cypress-mailosaur": "^2.15.0"
+  }
+}
